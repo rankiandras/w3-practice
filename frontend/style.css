@@ -44,8 +44,72 @@
   height: 200px;
 }*/
 
+#cube1{
+  background-color: #9e0142;
+  width: 400px;
+  height: 400px;
+  margin: auto;
+}
+
+#cube2{
+  background-color: #d53e4f;
+  width: 380px;
+  height: 380px;
+  margin: auto;
+}
+
+#cube3{
+  background-color: #f46d43;
+  width: 360px;
+  height: 360px;
+  margin: auto;
+}
+
+#cube4{
+  background-color: #fdae61;
+  width: 340px;
+  height: 340px;
+  margin: auto;
+}
+
+#cube5{
+  background-color: #fee08b;
+  width: 320px;
+  height: 320px;
+  margin: auto;
+}
+
+#cube6{
+  background-color: #e6f598;
+  width: 300px;
+  height:300px;
+  margin: auto;
+}
+
+#cube7{
+  background-color: #abdda4;
+  width: 280px;
+  height: 280px;
+  margin: auto;
+}
+
+#cube8{
+  background-color: #66c2a5;
+  width: 260px;
+  height: 260px;
+  margin: auto;
+}
+
+#cube9{
+  background-color: #3288bd;
+  width: 240px;
+  height: 240px;
+  margin: auto;
+}
+
 #cube10{
   background-color: #5e4fa2;
   width: 220px;
   height: 220px;
+  margin: auto;
 }
